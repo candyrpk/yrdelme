@@ -1,6 +1,10 @@
 <?xml version="1.0" ?>
 <layout>
     <default>
-        <!-- Your block overrides will go here -->
+    	<!-- Mage_Poll -->
+        <remove name="right.poll" />
+
+        <!--  Paypal ad -->
+        <remove name="paypal.partner.right.logo" />
     </default>
 </layout>
